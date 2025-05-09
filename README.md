@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salom+dunyo!;Profilimga+xush+kelibsiz!;Proyektlarimni+ko%27rib+chiqing!&font=Fira%20Code&color=%23D62F79&center=true&width=300&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&desc=Developer%20Journey%20Since%202022&descAlign=50&descAlignY=70" />
 </p>
-
 
 <p align="center">
   <a href="mailto:hojiakbar@example.com">

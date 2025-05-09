@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salom+dunyo!;Profilimga+xush+kelibsiz!;Proyektlarimni+ko%27rib+chiqing!&font=Fira%20Code&color=%23D62F79&center=true&width=300&height=50">
+</p>
+
+
+<p align="center">
   <a href="mailto:hojiakbar@example.com">
     <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -64,5 +69,5 @@
 ## 📈 GitHub Statistikam:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hojiakbarnasriddinov&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hojiakbar2806&show_icons=true&theme=tokyonight" />
 </p>

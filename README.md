@@ -25,7 +25,6 @@
 - 🧠 Ism: **Hojiakbar Nasriddinov**
 - 🎯 Dasturlashga qiziqish: **2022-yildan**
 - 📍 Mutaxassislik yo‘nalishi: **Web Dasturchi (Full Stack)**
-- 🎓 Tug‘ilgan yil: **2006**
 
 ---
 

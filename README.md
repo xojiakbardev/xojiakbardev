@@ -36,7 +36,6 @@
 ## 🧠 Men haqimda:
 
 - 👨‍💻 Ism: **Hojiakbar Nasriddinov**
-- 🎓 Tug‘ilgan yil: **2006**
 - 🚀 Dasturlashga qiziqishni **2022-yildan** boshlaganman
 - 📚 Texnologiyalar: `Next.js`, `HTML`, `CSS`, `JavaScript`, `TypeScript`
 - 🗄 Ma'lumotlar bazasi: `PostgreSQL`, `MySQL`, `MongoDB`

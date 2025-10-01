@@ -72,4 +72,7 @@
 
 ## LeetCode
 
+<p align="center">
 [![LeetCode Stats](https://leetcard.jacoblin.cool/hojiakbar2806?theme=dark&font=Noto%20Sans)](https://leetcode.com/hojiakbar2806)
+</p>
+

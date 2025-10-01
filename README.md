@@ -69,3 +69,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hojiakbar2806&show_icons=true&theme=tokyonight" />
 </p>
+
+## LeetCode
+
+[![LeetCode Stats]([https://leetcard.jacoblin.cool/Gammbity?theme=dark&font=Noto%20Sans](https://leetcard.jacoblin.cool/hojiakbar2806?theme=dark&font=Noto%20Sans))](https://leetcode.com/Gammbity)

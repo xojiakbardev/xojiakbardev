@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hojiakbar@example.com">
+  <a href="mailto:xojiakbar.dev@gmail.com">
     <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/hojiakbar_0628">
+  <a href="https://t.me/xojiakbardev_uz">
     <img height="28" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/hojiakbar____0628/">
+  <a href="https://www.instagram.com/xojiakbardev_uz/">
     <img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>

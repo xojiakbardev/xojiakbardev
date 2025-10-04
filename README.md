@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 Men haqimda
 
-- 🧠 Ism: **Hojiakbar Nasriddinov**
+- 🧠 Ism: **Xojiakbar Nasriddinov**
 - 🎯 Dasturlashga qiziqish: **2022-yildan**
 - 📍 Mutaxassislik yo‘nalishi: **Web Dasturchi (Full Stack)**
 

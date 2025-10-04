@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">✦ Hojiakbar Nasriddinov ✦</h2>
+  <h2 align="center">✦ Xojiakbar Nasriddinov ✦</h2>
 </p>
 
 <p align="center">

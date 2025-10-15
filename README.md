@@ -66,7 +66,7 @@
 
 ## 📈 GitHub Statistikam:
 
-<img src="https://github-readme-stats.vercel.app/api?username=hojiakbar2806&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=xojiakbardev&show_icons=true&theme=tokyonight" />
 
 ## LeetCode
 
